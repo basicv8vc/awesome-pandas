@@ -9,3 +9,4 @@ A curated list of awesome pandas resources.
 
 
 
+### [Easier Data Analysis in Python with Pandas (Video)](http://www.datasciencecentral.com/profiles/blogs/easier-data-analysis-in-python-with-pandas-video-series)
