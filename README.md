@@ -2,7 +2,7 @@
 A curated list of awesome pandas resources.
 
 
-### [Pandas 0.18.1 Documentation](http://pandas.pydata.org/pandas-docs/version/0.18.1/)
+### [Pandas 1.0.0 Documentation](https://pandas.pydata.org/docs/)
 
 
 ### [An Introduction to Scientific Python – Pandas](http://www.datadependence.com/2016/05/scientific-python-pandas/)
@@ -14,6 +14,6 @@ A curated list of awesome pandas resources.
 
 ### [Intro to Pandas Data Structures (Video)](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/)
 
-###[The Power of IPython Notebook + Pandas + Scikit-learn](http://www.andreykurenkov.com/writing/power-of-ipython-pandas-scikilearn/)
+### [The Power of IPython Notebook + Pandas + Scikit-learn](http://www.andreykurenkov.com/writing/power-of-ipython-pandas-scikilearn/)
 
-###[Python & JSON: Working with large datasets using Pandas](https://www.dataquest.io/blog/python-json-tutorial/)
+### [Python & JSON: Working with large datasets using Pandas](https://www.dataquest.io/blog/python-json-tutorial/)
